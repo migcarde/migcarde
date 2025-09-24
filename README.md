@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I am Miguel Caraballo
 
-<!--
-**migcarde/migcarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻👨🏽‍💻👨🏽‍💻 Senior Software developer at Plenitas 👨🏽‍💻👨🏽‍💻👨🏽‍💻
 
-Here are some ideas to get you started:
+Passionate Flutter developer who loves creating mobile apps. I thrive on solving problems with code, and I'm always looking for new challenges to grow my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me unwinding by immersing myself in the world of video games or getting lost in a good book.
+
+A few things you might not know about me:
+
+ - 💙 Flutter enthusiast.
+ - 📚 Continuous learning.
+ - 💻 Multiplatform developer.
+ - 👯 I am open to collaborating on Flutter projects.
+ - 💬 I'm here to help. Just ask away!
+ - 👨🏽‍💻 [Personal portfolio](https://miguelcaraballo.web.app/)
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migcarde&theme=default&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migcarde&theme=default&show_icons=true&hide_border=true&layout=compact" />
+</p>
