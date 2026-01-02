@@ -11,7 +11,7 @@ A few things you might not know about me:
  - 💙 Flutter enthusiast.
  - 📚 Continuous learning.
  - 💻 Multiplatform developer.
- - 👯 I am open to collaborating on Flutter projects.
+ - 👯 Open to collaborating on Flutter projects.
  - 💬 I'm here to help. Just ask away!
  - 👨🏽‍💻 [Personal portfolio](https://miguelcaraballo.web.app/)
 
