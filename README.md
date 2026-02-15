@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Miguel Caraballo
 
-👨🏽‍💻👨🏽‍💻👨🏽‍💻 Senior Software developer at Plenitas 👨🏽‍💻👨🏽‍💻👨🏽‍💻
+👨🏽‍💻👨🏽‍💻👨🏽‍💻 Senior Software developer 👨🏽‍💻👨🏽‍💻👨🏽‍💻
 
 Passionate Flutter developer who loves creating mobile apps. I thrive on solving problems with code, and I'm always looking for new challenges to grow my skills.
 
