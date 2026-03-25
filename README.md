@@ -13,7 +13,7 @@ A few things you might not know about me:
  - 💻 Multiplatform developer.
  - 👯 Open to collaborating on Flutter projects.
  - 💬 I'm here to help. Just ask away!
- - 👨🏽‍💻 [Personal portfolio](https://miguelcaraballo.web.app/)
+ - 👨🏽‍💻 [Personal portfolio]([https://miguelcaraballo.web.app/](https://miguel-caraballo.vercel.app/))
 
 ### My stack
 
